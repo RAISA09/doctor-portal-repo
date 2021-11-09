@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Fluoride Treatment",
+        "img": " https://i.ibb.co/30Lc2L3/fluoride.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, modi adipisci! Explicabo, animi amet?"
+    },
+    {
+        "name": "Cavity Filling",
+        "img": "https://i.ibb.co/ZXyxh34/cavity.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, modi adipisci! Explicabo, animi amet?"
+    },
+    {
+        "name": "Teath Whitening",
+        "img": "https://i.ibb.co/d5W0n5n/whitening.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, modi adipisci! Explicabo, animi amet?"
+    }
+]
